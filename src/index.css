@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+}
+h1{
+  margin-left: 70px;
+}
+input,button {
+  margin-left: 100px;
+   align-items: center;
+   line-height: 1rem;
+   font-size: 0 3rem;
+}
+input {
+  display: block;
+}
+button {
+  margin: 0.7rem;
+  font-weight: bold;
+}
