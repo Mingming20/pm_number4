@@ -52,4 +52,4 @@ class RegisterationForm extends Component{
         } 
     }
 }
-export default RegisterationForm;
+export default RegistrationForm;
