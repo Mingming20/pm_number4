@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Dashboard from './Dashboard';
 
-class RegisterationForm extends Component{
+class RegistrationForm extends Component{
     constructor(props){
         super(props)
         this.state={
